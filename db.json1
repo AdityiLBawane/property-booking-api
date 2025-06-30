@@ -1,0 +1,14 @@
+{
+  "propertyTypes": [
+    { "id": 1, "name": "Apartment" },
+    { "id": 2, "name": "Villa" },
+    { "id": 3, "name": "Studio" }
+  ],
+  "properties": [
+    { "id": 1, "name": "Ocean View Apartment", "typeId": 1 },
+    { "id": 2, "name": "Mountain Villa", "typeId": 2 }
+  ],
+  "bookings": [
+    { "id": 1, "propertyId": 2, "customer": "Alice", "date": "2025-07-01" }
+  ]
+}
