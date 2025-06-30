@@ -1,0 +1,14 @@
+{
+  "propertyTypes": [
+    { "id": 1, "name": "Apartment" },
+    { "id": 2, "name": "Villa" },
+    { "id": 3, "name": "Duplex" }
+  ],
+  "properties": [
+    { "id": 1, "name": "Sea View Flat", "typeId": 1 },
+    { "id": 2, "name": "Luxury Villa", "typeId": 2 }
+  ],
+  "bookings": [
+    { "id": 1, "propertyId": 1, "name": "John Doe", "date": "2025-07-01" }
+  ]
+}
