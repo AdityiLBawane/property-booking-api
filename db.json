@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+"propertyTypes": [
+  { "id": 101, "name": "Flat" },
+  { "id": 102, "name": "Villa" },
+  { "id": 103, "name": "Row House" }
+]
+
+
 {
   "siteMaster": [
     {
