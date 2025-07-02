@@ -3,11 +3,13 @@
     { "id": 1, "name": "Ocean View Apartment", "typeId": 1 },
     { "id": 2, "name": "Mountain Villa", "typeId": 2 }
   ],
+  
   "propertyTypes": [
     { "id": 101, "name": "Flat" },
     { "id": 102, "name": "Villa" },
     { "id": 103, "name": "Row House" }
   ],
+  
   "siteMaster": [
     {
       "siteId": 1,
