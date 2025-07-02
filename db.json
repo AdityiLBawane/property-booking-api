@@ -1,22 +1,13 @@
 {
-"properties": [
+  "properties": [
     { "id": 1, "name": "Ocean View Apartment", "typeId": 1 },
     { "id": 2, "name": "Mountain Villa", "typeId": 2 }
   ],
-}
-
-
-
-{
-"propertyTypes": [
-  { "id": 101, "name": "Flat" },
-  { "id": 102, "name": "Villa" },
-  { "id": 103, "name": "Row House" }
-],
-}
-
-
-{
+  "propertyTypes": [
+    { "id": 101, "name": "Flat" },
+    { "id": 102, "name": "Villa" },
+    { "id": 103, "name": "Row House" }
+  ],
   "siteMaster": [
     {
       "siteId": 1,
@@ -27,8 +18,8 @@
       "pincode": "411045",
       "state": "Maharashtra",
       "totalProperties": 10,
-      "createdDate": "2025-07-01T09:34:46.111Z",
-      "lastUpdatedDate": "2025-07-01T09:34:46.111Z"
+      "createdDate": "2025-07-01T09:34:00",
+      "lastUpdatedDate": "2025-07-01T09:34:00"
     }
   ]
 }
