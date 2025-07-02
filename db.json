@@ -1,14 +1,16 @@
 {
-  "propertyTypes": [
-    { "id": 1, "name": "Apartment" },
-    { "id": 2, "name": "Villa" },
-    { "id": 3, "name": "Duplex" }
-  ],
-  "properties": [
-    { "id": 1, "name": "Sea View Flat", "typeId": 1 },
-    { "id": 2, "name": "Luxury Villa", "typeId": 2 }
-  ],
-  "bookings": [
-    { "id": 1, "propertyId": 1, "name": "John Doe", "date": "2025-07-01" }
+  "siteMaster": [
+    {
+      "siteId": 1,
+      "siteTitle": "Luxury Green Homes",
+      "location": "Baner",
+      "propertyTypeId": 101,
+      "city": "Pune",
+      "pincode": "411045",
+      "state": "Maharashtra",
+      "totalProperties": 10,
+      "createdDate": "2025-07-01T09:34:46.111Z",
+      "lastUpdatedDate": "2025-07-01T09:34:46.111Z"
+    }
   ]
 }
